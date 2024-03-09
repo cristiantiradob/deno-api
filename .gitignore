@@ -1,0 +1,19 @@
+# Deno
+/.deno_bin
+/deno_dir/
+*.lock.json
+deno.land/
+
+# Dependencies
+/deps/
+/gen/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
